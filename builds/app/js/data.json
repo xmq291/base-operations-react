@@ -1,0 +1,62 @@
+[
+  {
+    "cityName": "Mexico City",
+    "countryName": "Mexico",
+    "addDate": "2017-06-20 11:30",
+    "cityNotes": "Mexico City is the densely populated, high-altitude capital of Mexico. It's known for its Templo Mayor (a 13th-century Aztec temple), the baroque Catedral Metropolitana de México of the Spanish conquistadors and the Palacio Nacional, which houses historic murals by Diego Rivera. All of these are situated in and around the Plaza de la Constitución, the massive main square also known as the Zócalo."
+  },
+  {
+    "cityName": "New Delhi",
+    "countryName": "India",
+    "addDate": "2016-11-24 08:30",
+    "cityNotes": "New Delhi is an urban district of Delhi which serves as the capital of India and seat of all three branches of Government of India. The foundation stone of the city was laid by George V, Emperor of India during the Delhi Durbar of 1911. It was designed by British architects, Sir Edwin Lutyens and Sir Herbert Baker."
+  },
+  {
+    "cityName": "São Paulo",
+    "countryName": "Brazil",
+    "addDate": "2018-09-22 10:50",
+    "cityNotes": "São Paulo, Brazil’s vibrant financial center, is among the world's most populous cities, with numerous cultural institutions and a rich architectural tradition. Its iconic buildings range from its neo-Gothic cathedral and the 1929 Martinelli skyscraper to modernist architect Oscar Niemeyer’s curvy Edifício Copan. The colonial-style Pátio do Colégio church marks where Jesuit priests founded the city in 1554."
+  },
+  {
+    "cityName": "Caracas",
+    "countryName": "Venezuela",
+    "addDate": "2017-02-28 10:35",
+    "cityNotes": "Caracas, Venezuela's capital, is a commercial and cultural center located in a northern mountain valley. Independence leader Simón Bolívar is buried at the National Pantheon of Venezuela, established in the 19th century in the city's old town. Caracas Cathedral, a landmark of Romanesque architecture, dates to the 17th century. Parque Central's 225m-high twin towers are the signature of the skyline."
+  },
+  {
+    "cityName": "Istanbul",
+    "countryName": "Turkey",
+    "addDate": "2017-07-21 9:17",
+    "cityNotes": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics."
+  },
+  {
+    "cityName": "Detroit",
+    "countryName": "United States",
+    "addDate": "2017-04-30 7:32",
+    "cityNotes": "Detroit is the largest city in the midwestern state of Michigan. Near Downtown, the neoclassical Detroit Institute of Arts is famed for the Detroit Industry Murals painted by Diego Rivera, and inspired by the city’s ties to the auto industry, giving it the nickname 'Motor City'. Detroit is also the birthplace of Motown Records, whose chart-topping history is on display at their original headquarters, Hitsville U.S.A."
+  },
+  {
+    "cityName": "New Orleans",
+    "countryName": "United States",
+    "addDate": "2017-07-21 4:55",
+    "cityNotes": "New Orleans is a Louisiana city on the Mississippi River, near the Gulf of Mexico. Nicknamed the 'Big Easy', it's known for its round-the-clock nightlife, vibrant live-music scene and spicy, singular cuisine reflecting its history as a melting pot of French, African and American cultures. Embodying its festive spirit is Mardi Gras, the late-winter carnival famed for raucous costumed parades and street parties."
+  },
+  {
+    "cityName": "Juárez",
+    "countryName": "Mexico",
+    "addDate": "2015-12-06 9:15",
+    "cityNotes": "Ciudad Juárez is a Mexican city on the Rio Grande, just south of El Paso, Texas. Its historic center is dominated by the neoclassical Cathedral of Ciudad Juárez, whose twin towers overlook leafy Plaza de Armas. Exhibits at the Museum of the Revolution on the Border trace the history of the Mexican Revolution. The Rodadora Interactive Space is a child-friendly museum with exhibits on art, technology and science."
+  },
+  {
+    "cityName": "Karachi",
+    "countryName": "Pakistan",
+    "addDate": "2017-10-12 3:24",
+    "cityNotes": "Karachi is the capital of the Pakistani province of Sindh. It is the most populous city in Pakistan, and sixth-most-populous city proper in the world. Ranked as a beta world city, the city is Pakistan's premier industrial and financial centre. Karachi is also Pakistan's most cosmopolitan city."
+  },
+  {
+    "cityName": "Jerusalem",
+    "countryName": "Israel",
+    "addDate": "2018-03-29 9:16",
+    "cityNotes": "Jerusalem is a city in the Middle East, located on a plateau in the Judaean Mountains between the Mediterranean and the Dead Sea. It is one of the oldest cities in the world, and is considered holy to the three major Abrahamic religions—Judaism, Christianity, and Islam."
+  }
+]
